@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Rock Your Body",
+  "base_artist": "Justin Timberlake",
+  "createdAt": "2026-01-04T15:12:13.293515Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rock Your Body",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/01_Rock_Your_Body_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock Your Body (Paul Oakenfold Mix)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/02_Rock_Your_Body_(Paul_Oakenfold_Mix)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Justin Timberlake – Rock Your Body (Paul Oakenfold Mix)",
+      "artist": "Christina Aguilera",
+      "has_synced": true,
+      "path": "select/03_Justin_Timberlake_–_Rock_Your_Body_(Paul_Oakenfold_Mix)_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rock Your Body",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/04_Rock_Your_Body_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rock Your Body",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/05_Rock_Your_Body_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rock Your Body (Paul Oakenfold Mix)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/06_Rock_Your_Body_(Paul_Oakenfold_Mix)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rock Your Body (Sander Kleinenberg's Just In The Club Mix)",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/07_Rock_Your_Body_(Sander_Kleinenberg's_Just_In_The_Club_Mix)_Justin_Timberlake.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rock Your Body (Sander Kleinberg's Just In The Club Remix)",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/08_Rock_Your_Body_(Sander_Kleinberg's_Just_In_The_Club_Remix)_Justin_Timberlake.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rock Your Body",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/09_Rock_Your_Body_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rock Your Body Rock",
+      "artist": "Ferry Corsten",
+      "has_synced": false,
+      "path": "select/10_Rock_Your_Body_Rock_Ferry_Corsten.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rock Your Body, Rock (extended)",
+      "artist": "Ferry Corsten",
+      "has_synced": false,
+      "path": "select/11_Rock_Your_Body,_Rock_(extended)_Ferry_Corsten.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rock Your Body",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/12_Rock_Your_Body_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rock Your Body",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/13_Rock_Your_Body_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rock Your Body",
+      "artist": "H.e.a.t",
+      "has_synced": true,
+      "path": "select/14_Rock_Your_Body_H.e.a.t.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rock Your Body",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/pl_01_Rock_Your_Body_Justin_Timberlake.txt"
+    }
+  ]
+}
